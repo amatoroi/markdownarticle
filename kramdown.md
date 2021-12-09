@@ -17,7 +17,7 @@ Github에서 글쓰기를 결정한 이후, 이 스타일에 익숙해져야 했
 Github에서 제공하는 문서를 통해 인식할 수 있으나, 효율적 사용과 친숙해지기 위하여 이를 번역하였다.
 [Github Doc](https://docs.github.com/en/github/writing-on-github)
 
-간단한 사용을 원하면, 이 [커닝페이퍼](https://www.markdownguide.org/cheat-sheet/)를 활용하시기 바랍니다. [문서로보기]](https://www.markdownguide.org/assets/markdown-cheat-sheet.md)
+간단한 사용을 원하면, 이 [커닝페이퍼](https://www.markdownguide.org/cheat-sheet/)를 활용하시기 바랍니다. [문서로보기](https://www.markdownguide.org/assets/markdown-cheat-sheet.md)
 
 ## 마크다운 기본사용법
 
